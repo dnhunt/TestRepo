@@ -1,0 +1,13 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "nodejs image demo",
+  "author": "Darren <email>",
+  "license": "MIT",
+  "main": "server.js",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.16.4",
+    "body-parser": "latest"
+  }
+}
